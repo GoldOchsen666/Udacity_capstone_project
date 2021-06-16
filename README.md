@@ -22,4 +22,21 @@ Therefor, the question is:
 #### What attributes (age, gender, income, etc.) have the highest influence on a person's choice to respond to a starbucks offer or not?
 
 ### Data description
+The data is contained in three files:
+
+portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+profile.json - demographic data for each customer
+transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+### Results
+
+An explanation of the data preprocessing steps and my results can be found [here](). 
+
+### Licensing and Acknowledgements
+
+Data and a few comments on how what to pay attention to were provided by Udacity. 
+
+
+
+
 
