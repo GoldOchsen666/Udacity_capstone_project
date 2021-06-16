@@ -19,27 +19,7 @@ Keep in mind as well that someone using the app might make a purchase through th
 ### Project goal
 From a business perspective, if a customer is going to make a 10 dollar purchase without an offer anyway, you wouldn't want to send a buy 10 dollars get 2 dollars off offer.
 Therefor, the question is:
-###What attributes (age, gender, income, etc.) have the highest influence on a person's choice to respond to a starbucks offer or not?
+#### What attributes (age, gender, income, etc.) have the highest influence on a person's choice to respond to a starbucks offer or not?
 
- 
+### Data description
 
-### Instructions:
-1. Run the following commands in the project's root directory to set up your database and model.
-
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
-
-2. Run the following command in the app's directory to run your web app.
-    `python run.py`
-
-3. Go to http://127.0.0.1:5000/
-
-### Comments
-* The home screen of the web app displays a few bar plots showing the distribution of some information
-of the training data. The training data are clearly not evenly distributed among the different 
-categories which may skew the results!
-* The classifier.pkl file tends to get really large (>100MB) which Github doesn't allow to be 
-uploaded. Therefore I uploaded a smaller file that was only trained on fewer training data and
-may therefore not always be very accurate. Feel free to use the code and train the model yourself!
