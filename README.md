@@ -26,7 +26,7 @@ The data is contained in three files:
 
 ### Results
 
-An explanation of the data preprocessing steps and my results can be found [here](). 
+An explanation of the data preprocessing steps and my results can be found [here](https://medium.com/p/7da87b11bdad/edit). 
 
 ### Licensing and Acknowledgements
 
