@@ -15,7 +15,7 @@ We have to keep in mind that someone using the app might make a purchase through
 ### Project goal
 From a business perspective, if a customer is going to make a 10 dollar purchase without an offer anyway, you wouldn't want to send a buy 10 dollars get 2 dollars off offer.
 Therefor, the question is:
-#### What attributes (age, gender, income, etc.) have the highest influence on a person's choice to respond to a starbucks offer or not?
+#### What attributes have the highest influence on a person's choice to respond to a certain Starbucks offer?
 
 ### Data description
 The data is contained in three files:
@@ -30,7 +30,7 @@ An explanation of the data preprocessing steps and my results can be found [here
 
 ### Licensing and Acknowledgements
 
-Data and a few comments on how what to pay attention to were provided by Udacity. 
+Data and a few comments on what to pay attention to were provided by Udacity. 
 
 
 
