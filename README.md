@@ -26,7 +26,7 @@ The data is contained in three files:
 
 ### Results
 
-An explanation of the data preprocessing steps and my results can be found [here](https://medium.com/p/7da87b11bdad/edit). 
+An explanation of the data preprocessing steps and my results can be found [here](https://tobias-merk2.medium.com/what-attributes-have-the-highest-influence-on-a-persons-choice-to-respond-to-a-certain-starbucks-7da87b11bdad). 
 
 ### Licensing and Acknowledgements
 
